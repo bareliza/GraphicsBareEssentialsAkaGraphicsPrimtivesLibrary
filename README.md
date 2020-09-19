@@ -18,7 +18,9 @@ Requirements:
 This works on ubuntu with following installed:
 
 ii  mono-4.0-gac                                                6.8.0.105-0xamarin3+ubuntu1804b1                            all          Mono GAC tool (for CLI 4.0)
+
 ii  mono-csharp-shell                                           6.8.0.105-0xamarin3+ubuntu1804b1                            all          interactive C# shell
+
 ii  mono-devel                                                  6.8.0.105-0xamarin3+ubuntu1804b1                            all          Mono development tools
 ii  mono-gac                                                    6.8.0.105-0xamarin3+ubuntu1804b1                            all          Mono GAC tool
 ii  mono-llvm-support                                           6.8.0.105-0xamarin3+ubuntu1804b1                            amd64        Mono runtime - SGen
