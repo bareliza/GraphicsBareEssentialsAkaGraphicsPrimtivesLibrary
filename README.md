@@ -38,4 +38,8 @@ This works on ubuntu with following installed:
     dotnet-runtime-deps-3.1                                     3.1.1-1                                                     amd64        dotnet-runtime-deps-3.1 3.1.1
     dotnet-sdk-3.1                                              3.1.101-1                                                   amd64        Microsoft .NET Core SDK 3.1.101
     dotnet-targeting-pack-3.1                                   3.1.0-1                                                     amd64        Microsoft.NETCore.App.Ref 3.1.0
+    
+BareGraphicEssentials in action:
+
+https://www.youtube.com/watch?v=_MQo-fz3_8o
 
